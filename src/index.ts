@@ -3,3 +3,12 @@ export function greet(name: string) { return `Hello, ${name}!`; }
 export function farewell(name: string) { return `Goodbye, ${name}!`; }
 
 export function thank(name: string) { return `Thanks, ${name}!`; }
+
+export function apologize(name: string): string {
+    return `I’m sorry, ${name}.`;}
+
+ export function congratulate(name: string): string {
+    return `Congratulations, ${name}!`;}
+
+    export function welcome(name: string): string {
+       return `Welcome, ${name}!`;}
