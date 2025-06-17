@@ -6,3 +6,6 @@ export function thank(name: string) { return `Thanks, ${name}!`; }
 
 export function apologize(name: string): string {
     return `I’m sorry, ${name}.`;}
+
+ export function congratulate(name: string): string {
+    return `Congratulations, ${name}!`;}
