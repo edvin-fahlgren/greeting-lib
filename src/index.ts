@@ -18,4 +18,6 @@ export function salute(name: string): string {
 
 export function goodMorning(name: string): string {
     return `Good morning, ${name}!`;}
-      
+   
+export function cheers(name: string): string {
+    return `Cheers, ${name}!`;}
