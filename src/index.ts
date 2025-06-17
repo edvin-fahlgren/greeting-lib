@@ -9,3 +9,6 @@ export function apologize(name: string): string {
 
  export function congratulate(name: string): string {
     return `Congratulations, ${name}!`;}
+
+    export function welcome(name: string): string {
+       return `Welcome, ${name}!`;}
