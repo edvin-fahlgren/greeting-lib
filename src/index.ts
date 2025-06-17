@@ -12,3 +12,6 @@ export function apologize(name: string): string {
 
     export function welcome(name: string): string {
        return `Welcome, ${name}!`;}
+
+export function salute(name: string): string {
+    return `Salutations, ${name}!`;}
