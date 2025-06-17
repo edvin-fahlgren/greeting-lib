@@ -24,3 +24,7 @@ export function goodNight(name: string): string {
    
 export function cheers(name: string): string {
     return `Cheers, ${name}!`;}
+
+export function goodAfternoon(name: string): string {
+    return `Good afternoon, ${name}!`;}
+      
