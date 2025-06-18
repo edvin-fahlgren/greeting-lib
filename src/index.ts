@@ -30,3 +30,7 @@ export function goodAfternoon(name: string): string {
 
 export function happyBirthday(name: string): string {
     return `Happy birthday, ${name}!`;}      
+
+export function goodEvening(name: string): string {
+    return `Good evening, ${name}!`;}
+      
