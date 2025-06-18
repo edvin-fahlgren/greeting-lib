@@ -33,4 +33,9 @@ export function happyBirthday(name: string): string {
 
 export function goodEvening(name: string): string {
     return `Good evening, ${name}!`;}
+
+    
+export function howdy(name: string): string {
+    return `Howdy, ${name}!`;}
+
       
