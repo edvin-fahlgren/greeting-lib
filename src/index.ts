@@ -38,4 +38,6 @@ export function goodEvening(name: string): string {
 export function howdy(name: string): string {
     return `Howdy, ${name}!`;}
 
-      
+export function seeYou(name: string): string {
+    return `See you, ${name}!`;}
+            
